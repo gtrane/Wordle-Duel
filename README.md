@@ -1,5 +1,5 @@
 # Wordle Duel
-A fun personal project during my Wordle days! I used python to created a tracker/leaderboard for Wordle. I was interested in tracking how often me or my partner beats the other in Wordle. The created dataframe tracks the amount of wins, losses, and ties, and calculates the win ratio of each player. 
+A fun personal project during the height of my Wordle addiction. Faced with the unknown and uber-important question, which one of us is better at Wordle? I utilized python Jupyter Notebooks to create a leaderboard. This simple dataframe seamlessly tracks the amount of wins/losses/ties over time and calculates each player's win ratio. 
 
 'Wordle_Duel.ipynb' shows my code for the program. 
 ![alpha-wordle-icon-new-square320-v3](https://github.com/gtrane/Wordle-Duel/assets/116750192/9c3a20f5-5e00-4e46-a21a-7cebf91afc33)
